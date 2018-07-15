@@ -1,0 +1,9 @@
+{
+  
+    "navigationBarBackgroundcolor": "#4CD0F1",
+    "navigationBarTextstyle": "white",
+    "navigationBarTitleText": "中国十大名菜",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#fff"
+  
+}

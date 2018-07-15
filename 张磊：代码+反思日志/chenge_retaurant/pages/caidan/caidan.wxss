@@ -1,0 +1,77 @@
+/* pages/caidan/caidan.wxss */
+ .sign image {
+  width: 750rpx;
+  height: 150px;
+} 
+
+.btn10 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+
+
+.btn11 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn12 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn13 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn14 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn15 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn16 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn17 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn18 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}
+
+.btn19 {
+  width: 100%;
+  margin-top: 10rpx;
+  background-color: #FFFFFE;
+  color: #00B26A;
+}

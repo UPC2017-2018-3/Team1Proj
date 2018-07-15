@@ -1,0 +1,40 @@
+
+<!--toast  -->
+<view class='box' wx:if="{{showToast}}">
+  <view class='window'>
+     <view class='text'>
+       {{toastText}}
+    </view>
+  </view>
+</view>
+
+<view class='logo'>
+   <image src='../../img/chenge_restaurant.jpg'></image>
+</view>
+
+<view class='login'>
+    <view class='user'>
+      <image src='../../img/ren.jpg'></image>
+      <input bindblur='phoneBlur' type='number' placeholder-class='placeholder' placeholder='请输入会员ID（手机号）'></input>
+    </view>
+
+    <view class='password'>
+      <image src='../../img/suo.jpg'></image>
+      <input bindblur='psdBlur' placeholder-class='placeholder' placeholder='请输入密码'></input>
+    </view>
+
+    <view class='code'>
+      <image  src='../../img/shouji.jpg'></image>
+      <input type='number'
+placeholder-class='placeholder' placeholder='手机验证码'></input>
+
+      <button disabled='{{gainFlag}}' bindtap='gain'>{{key}}</button>
+    </view>
+
+    <view class='register'>
+      <button bindtap='register' type='primary'>登   录</button>
+    </view>
+
+</view>
+
+

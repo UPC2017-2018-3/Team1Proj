@@ -1,0 +1,35 @@
+page {
+  background: #F1F0F6;
+
+}
+
+.placeholder {
+  font-size: 15px;
+}
+
+input {
+  background: #fff;
+  height: 100rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  padding-left: 20rpx;
+
+}
+button {
+  margin: 30rpx 50rpx;
+}
+
+.content {
+  background: #fff;
+}
+
+.content-item {
+  padding: 20rpx;
+}
+
+.title {
+  font-size: 60rpx;
+  margin: center;
+  color: black;
+  text-align: justify;
+}

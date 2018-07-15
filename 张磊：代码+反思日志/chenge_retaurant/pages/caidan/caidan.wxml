@@ -1,0 +1,15 @@
+<!--pages/caidan/caidan.wxml-->
+<view class='sign'>
+     <image src='{{contentImg}}' ></image>
+  </view>  
+
+<button  class='btn10' bindtap='btn10'>西湖醋鱼</button>
+<button  class='btn11' bindtap='btn11'>东坡肘子</button>
+<button  class='btn12' bindtap='btn11'>北京烤鸭</button>
+<button  class='btn13' bindtap='btn11'>四川麻婆豆腐</button>
+<button  class='btn14' bindtap='btn11'>飞龙汤</button>
+<button  class='btn15' bindtap='btn11'>无为熏鸭</button>
+<button  class='btn16' bindtap='btn11'>东安子鸡</button>
+<button  class='btn17' bindtap='btn11'>清蒸武昌鱼</button>
+<button  class='btn18' bindtap='btn11'>腊味合蒸</button>
+<button  class='btn19' bindtap='btn11'>辣子鸡</button>
